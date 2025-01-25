@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio_preeti/static/css/main.2878dff7.css",
+    "main.js": "/portfolio_preeti/static/js/main.791fd7c7.js",
+    "index.html": "/portfolio_preeti/index.html",
+    "main.2878dff7.css.map": "/portfolio_preeti/static/css/main.2878dff7.css.map",
+    "main.791fd7c7.js.map": "/portfolio_preeti/static/js/main.791fd7c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2878dff7.css",
+    "static/js/main.791fd7c7.js"
+  ]
+}
