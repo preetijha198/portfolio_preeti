@@ -1,0 +1,26 @@
+.projects {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .project-card {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .project-card h3 {
+    color: #333;
+  }
+  
+  .project-card a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .project-card a:hover {
+    text-decoration: underline;
+  }
+  
