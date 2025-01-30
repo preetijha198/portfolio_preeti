@@ -4,6 +4,7 @@ import About from "./components/About"; // About section component
 import Projects from "./components/Projects"; // Projects section component
 import Contact from "./components/Contact"; // Contact section component
 import Footer from "./components/Footer"; // Footer component
+import Skills from "./components/Skills";
 import "./App.css"; // General styling for the app
 
 function App() {
@@ -14,6 +15,8 @@ function App() {
 
       {/* About section */}
       <About />
+
+      <Skills />
 
       {/* Projects section */}
       <Projects />
